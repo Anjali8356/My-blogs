@@ -1,3 +1,3 @@
 # My-blogs
 
-This repository contains my blogs posted on HHashnode
+This repository contains my blogs posted on Hashnode
