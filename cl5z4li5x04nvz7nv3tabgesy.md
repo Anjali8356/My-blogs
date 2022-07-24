@@ -1,4 +1,4 @@
-## JDK, JRE, JVM, and JIT
+## How does java code execute internally?
 
 # How does java code execute?
 Java is the most popular, open-source programming language that is used to develop desktop and mobile applications, big data processing, embedded systems, and so on.
