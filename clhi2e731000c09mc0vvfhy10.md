@@ -6,7 +6,7 @@ datePublished: Wed May 10 2023 18:59:18 GMT+0000 (Coordinated Universal Time)
 cuid: clhi2e731000c09mc0vvfhy10
 slug: working-with-json-files-using-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683743080254/3a044c08-336b-4377-aaa1-8e1dcce169ee.jpeg
-tags: python, json
+tags: python, json, python3
 
 ---
 
