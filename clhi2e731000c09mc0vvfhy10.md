@@ -1,6 +1,5 @@
 ---
 title: "Working with JSON Files Using Python"
-seoTitle: "convert dictionary into  json objects in python"
 datePublished: Wed May 10 2023 18:59:18 GMT+0000 (Coordinated Universal Time)
 cuid: clhi2e731000c09mc0vvfhy10
 slug: working-with-json-files-using-python
