@@ -1,3 +1,3 @@
 # My-blogs
 
-This is the backup repository of mu Hashnode Blogs
+This is the backup repository of my Hashnode Blogs
